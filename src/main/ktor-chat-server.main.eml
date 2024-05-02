@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../src/main"/>
+	<lib name="Gradle: org.fusesource.jansi:jansi:2.4.0" scope="RUNTIME"/>
+	<lib name="Gradle: io.projectreactor:reactor-core:3.2.22.RELEASE" scope="RUNTIME"/>
+	<levels>
+		<level name="Gradle: io.insert-koin:koin-ktor:3.1.2" value="project"/>
+		<level name="Gradle: io.ktor:ktor-websockets:1.6.5" value="project"/>
+		<level name="Gradle: io.ktor:ktor-serialization:1.6.5" value="project"/>
+		<level name="Gradle: io.ktor:ktor-server-sessions:1.6.5" value="project"/>
+		<level name="Gradle: io.ktor:ktor-server-netty:1.6.5" value="project"/>
+		<level name="Gradle: io.ktor:ktor-server-core:1.6.5" value="project"/>
+		<level name="Gradle: io.insert-koin:koin-logger-slf4j:3.1.2" value="project"/>
+		<level name="Gradle: org.litote.kmongo:kmongo-coroutine:4.3.0" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.31" value="project"/>
+		<level name="Gradle: ch.qos.logback:logback-classic:1.2.3" value="project"/>
+		<level name="Gradle: org.litote.kmongo:kmongo:4.3.0" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.5.2-native-mt" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.31" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.31" value="project"/>
+		<level name="Gradle: org.slf4j:slf4j-api:1.7.32" value="project"/>
+		<level name="Gradle: io.netty:netty-codec-http2:4.1.69.Final" value="project"/>
+		<level name="Gradle: org.eclipse.jetty.alpn:alpn-api:1.1.3.v20160715" value="project"/>
+		<level name="Gradle: io.netty:netty-transport-native-kqueue:4.1.69.Final" value="project"/>
+		<level name="Gradle: io.netty:netty-transport-native-epoll:4.1.69.Final" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.31" value="project"/>
+		<level name="Gradle: com.typesafe:config:1.4.1" value="project"/>
+		<level name="Gradle: io.insert-koin:koin-core-jvm:3.1.2" value="project"/>
+		<level name="Gradle: org.litote.kmongo:kmongo-coroutine-core:4.3.0" value="project"/>
+		<level name="Gradle: org.litote.kmongo:kmongo-jackson-mapping:4.3.0" value="project"/>
+		<level name="Gradle: ch.qos.logback:logback-core:1.2.3" value="project"/>
+		<level name="Gradle: org.litote.kmongo:kmongo-core:4.3.0" value="project"/>
+		<level name="Gradle: io.ktor:ktor-http-cio-jvm:1.6.5" value="project"/>
+		<level name="Gradle: org.jetbrains:annotations:13.0" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.31" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.3.0" value="project"/>
+		<level name="Gradle: io.ktor:ktor-server-host-common:1.6.5" value="project"/>
+		<level name="Gradle: io.netty:netty-codec-http:4.1.69.Final" value="project"/>
+		<level name="Gradle: io.netty:netty-handler:4.1.69.Final" value="project"/>
+		<level name="Gradle: io.netty:netty-codec:4.1.69.Final" value="project"/>
+		<level name="Gradle: io.netty:netty-transport:4.1.69.Final" value="project"/>
+		<level name="Gradle: io.netty:netty-buffer:4.1.69.Final" value="project"/>
+		<level name="Gradle: io.netty:netty-common:4.1.69.Final" value="project"/>
+		<level name="Gradle: io.netty:netty-transport-native-unix-common:4.1.69.Final" value="project"/>
+		<level name="Gradle: io.ktor:ktor-http-jvm:1.6.5" value="project"/>
+		<level name="Gradle: io.ktor:ktor-utils-jvm:1.6.5" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-reactive:1.5.2" value="project"/>
+		<level name="Gradle: org.litote.kmongo:kmongo-async-shared:4.3.0" value="project"/>
+		<level name="Gradle: org.litote.kmongo:kmongo-property:4.3.0" value="project"/>
+		<level name="Gradle: org.litote.kmongo:kmongo-shared:4.3.0" value="project"/>
+		<level name="Gradle: org.litote.kmongo:kmongo-id-jackson:4.3.0" value="project"/>
+		<level name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.12.5" value="project"/>
+		<level name="Gradle: com.fasterxml.jackson.module:jackson-module-kotlin:2.12.5" value="project"/>
+		<level name="Gradle: org.litote.jackson:jackson-module-loader:0.4.0" value="project"/>
+		<level name="Gradle: de.undercouch:bson4jackson:2.12.0" value="project"/>
+		<level name="Gradle: org.mongodb:mongodb-driver-sync:4.3.2" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.2" value="project"/>
+		<level name="Gradle: io.netty:netty-resolver:4.1.69.Final" value="project"/>
+		<level name="Gradle: org.reactivestreams:reactive-streams:1.0.3" value="project"/>
+		<level name="Gradle: org.mongodb:mongodb-driver-reactivestreams:4.3.2" value="project"/>
+		<level name="Gradle: org.litote:kreflect:1.0.0" value="project"/>
+		<level name="Gradle: org.litote.kmongo:kmongo-data:4.3.0" value="project"/>
+		<level name="Gradle: org.litote.kmongo:kmongo-id:4.3.0" value="project"/>
+		<level name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.12.5" value="project"/>
+		<level name="Gradle: com.fasterxml.jackson.core:jackson-core:2.12.5" value="project"/>
+		<level name="Gradle: org.mongodb:mongodb-driver-core:4.3.2" value="project"/>
+		<level name="Gradle: org.mongodb:bson:4.3.2" value="project"/>
+		<level name="Gradle: io.ktor:ktor-network-jvm:1.6.5" value="project"/>
+		<level name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.3.0" value="project"/>
+		<level name="Gradle: io.ktor:ktor-io-jvm:1.6.5" value="project"/>
+		<level name="Gradle: org.fusesource.jansi:jansi:2.4.0" value="project"/>
+		<level name="Gradle: io.projectreactor:reactor-core:3.2.22.RELEASE" value="project"/>
+	</levels>
+</component>
